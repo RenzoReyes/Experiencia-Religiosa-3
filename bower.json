@@ -1,0 +1,29 @@
+{
+  "name": "FluckBuster",
+  "authors": [
+    "<Sebastian Rubio<sebastian.rubio@alumnos.uv.cl>>"
+  ],
+  "description": "Experiencia 3 , Pagina para arrendar vinilos",
+  "main": "index.html",
+  "keywords": [
+    "pelicula",
+    "unidades",
+    "fluck",
+    "arriendo"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "html": "^1.0.0"
+  }
+}
